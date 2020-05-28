@@ -94,7 +94,7 @@ h1{
     padding-top:200px;
 }
 div{
-    border:1px solid black;
+    border:1px;
 }
 @media(min-width:992px){
     .container{width:100%;}
